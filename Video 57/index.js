@@ -10,16 +10,16 @@ let a = 1;
 // }
 
 // let obj = {
-//     name: "Harry",
+//     name: "Priyanshu",
 //     role: "Programmer",
-//     company: "CodeWithHarry AI"
+//     company: "Devin AI"
 // }
  
 // for (const key in obj) {  
 //         console.log(key)
 // }
 
-// for (const c of "Harry") {
+// for (const c of "Priyanshu") {
 //     console.log(c)
 // }
 
