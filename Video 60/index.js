@@ -1,5 +1,5 @@
 console.log("This is strings tutorial")
-let a = "Harry";
+let a = "Priyanshu";
 console.log(a[0]);
 console.log(a[1]);
 console.log(a[2]);
@@ -9,7 +9,7 @@ console.log(a[4]);
 
 console.log(a.length)
 
-let real_name = "Harry"
+let real_name = "Priyanshu"
 let friend = "Rohan"
 console.log("His name is " + real_name + " and his friends name is " + friend)
 console.log(`His name is ${real_name} and his friends name is ${friend}`)
